@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.container {
+  height: 100vh;
+}
+.btn1 {
+  background-color: #46139f !important;
+  border : none !important;
+}
+.btn2 {
+  background-color: #ff7f50 !important;
+  border : none !important;
+}
+.btn3 {
+  background-color: #fff !important;
+  border-color: #46139f !important;
+}
